@@ -1,0 +1,9 @@
+nav {
+    
+    border: 1px  rgb(255, 255, 255) solid;
+    
+
+    box-shadow: 
+        /* inset 0px 11px 8px -10px rgb(0, 0, 0), */
+        inset 0px -11px 8px -10px rgb(125, 124, 124);
+}
